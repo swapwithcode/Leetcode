@@ -4,7 +4,6 @@ Leetcode Link : https://leetcode.com/problems/largest-rectangle-in-histogram/
 
 */
 
-
 /*****************************************C++**************************************************/
 /*
     Approach (Brute force) using simple for loops
