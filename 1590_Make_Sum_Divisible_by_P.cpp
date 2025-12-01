@@ -1,7 +1,6 @@
 /*
 
-Leetcode Link : https://leetcode.com/problems/largest-rectangle-in-histogram/
-
+Leetcode Link : https://leetcode.com/problems/make-sum-divisible-by-p/description/
 */
 
 /*****************************************C++**************************************************/
